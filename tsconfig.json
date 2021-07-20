@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "rootDir": "src",
+    "lib": ["ES2019", "DOM", "scripthost"],
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "declaration": true,
+    "allowJs": true
+  },
+  "include": ["index.d.ts","src/**/*"]
+}
